@@ -1,0 +1,170 @@
+.body
+{
+    background-color: dimgrey;
+}
+
+.store
+{
+    font-weight: bolder;
+    font-style: italic;
+    color: brown;
+    font-size: x-large;
+    text-shadow: 2px 1px crimson;
+    border: red solid 5px;
+    width: 450px;
+    height: 170px;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 5px 5px rgb(80, 6, 34);
+    margin: 10px 10px 10px 32%;
+}
+.child
+{
+    font-weight: bolder;
+    color: rgb(46, 9, 95);
+    font-size: x-large;
+    text-shadow: 2px 1px crimson;
+    border: red solid 5px;
+    width: 230px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 5px 5px rgb(80, 6, 34);
+    margin: 10px 10px 10px 100px;
+    display: inline-block;
+    position: absolute;
+    padding: 10px;
+
+}
+.parent
+{
+    border: 5px solid chartreuse;
+    display: flex;
+    margin: 10px;
+    position:relative ;
+    height: 600px;
+
+    
+}
+.box
+{
+    top: 0px;
+    left: 0px;
+    margin-left: 5px;
+}
+.box1
+{
+    top: 0px;
+    right: 0px;
+    margin-right: 70px;
+
+}
+.box2
+{
+    bottom: 0px;
+    left: 0px;
+    margin-left: 5px;
+}
+.box3
+{
+    bottom: 0px;
+    right: 0px;
+    margin-right: 70px;
+}
+.img
+{
+    border: 1px solid black;
+    border-top: 0px;
+    border-right: 0px;
+}
+.text
+{
+    font-size: medium;
+}
+.botn
+{
+    background-color: red;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+.parent1
+{
+    border: solid 5px red;
+    box-shadow: 5px 5px rgb(80, 6, 34);
+    background-color: cyan;
+    display: flex;
+    width: 330px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 400px;
+    padding: 10px;
+    bottom: 50px;
+    position: fixed;
+}
+.child1
+{
+    font-style: italic;
+    color: brown;
+    padding: 10px;
+    font-size: large;
+    font-weight: 900;
+}
+.child2
+{
+    font-style: italic;
+    color: brown;
+    padding: 5px;
+    font-weight: 700;
+    height: 40px;
+
+}
+.parent2
+{
+    border: 3px solid darkviolet;
+    background-color: green;
+    margin: 2px;
+    width: 714px;
+    height: 590px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left:250px;
+    
+
+}
+.child3
+{
+    background-color: gold;
+    border: khaki 1px solid;
+    width: 350px;
+    height: 250px;
+    text-align: center;
+    display: inline-block;
+    margin: 2px;
+    margin-top: -250px;
+
+
+
+}
+.child4
+{
+    background-color: gold;
+    border: khaki 1px solid;
+    margin: 2px;
+    width: 717px;
+    height: 250px;
+    text-align: center;
+    margin: -270px 10px 10px 255px;
+    font-style: italic;
+}
+.head
+{
+    font-size: x-large;
+    text-align: center;
+    width: 715px;
+    padding: 10px;
+}
+.text
+{
+    font-style: italic;
+
+}
